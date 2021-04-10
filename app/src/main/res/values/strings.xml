@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UserListTest</string>
+    <string name="user_list">User List</string>
+</resources>
